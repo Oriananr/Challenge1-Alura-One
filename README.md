@@ -26,6 +26,7 @@ En este documento (README.md) se presenta la metodología utilizada en el análi
 **2. Metodología**
 ____________________________________________________________________________________________________
 El análisis de datos se llevó a cabo utilizando Python (versión 3.11.13) y un conjunto de librerías especializadas. Para el procesamiento y las operaciones numéricas, se emplearon Pandas y NumPy. Las visualizaciones se generaron con Matplotlib y Seaborn, complementadas con Contextily para gráficos que incorporan contexto geográfico. Todo el trabajo se realizó en el entorno de Google Colab.
+
 Las bases de datos, proporcionadas por Alura Latam, consisten en cuatro archivos en formato CSV. Cada archivo corresponde a una tienda independiente, cuyos DataFrames se denominan en este trabajo como “tienda1”, “tienda2”, “tienda3” y “tienda4”, respectivamente. Cada conjunto de datos contenía 12 columnas y 2359 registros, sin valores nulos.
 Para este análisis, se asumió que los datos proporcionados ya estaban limpios, por lo que no se realizó una revisión específica de este punto.
 Las columnas presentes en cada DataFrame son las siguientes:
