@@ -12,9 +12,13 @@ ________________________________________________________________________________
 **1. Introducción**
 ____________________________________________________________________________________________________
 Dentro del programa Oracle ONE (Oracle Next Education) - Alura Latam, la realización de una serie de Challenges se contempla como una parte fundamental de la formación de los becarios. Esta metodología de aprendizaje, desarrollada por Apple, se basa en exponer a los alumnos a situaciones reales y complejas.
+
 El presente Challenge se enfoca en el análisis descriptivo de datos de cuatro empresas de venta de artículos electrónicos y del hogar, propiedad del Señor Joao. Su objetivo principal es resumir y visualizar las características clave del desempeño de las tiendas, sirviendo como una base fundamental para comprender su situación actual e identificar patrones, tendencias y anomalías en sus operaciones. La meta es determinar, basándose en la información disponible, cuál de las tiendas presenta el menor desempeño para su eventual venta y así apoyar nuevas inversiones.
+
 El equipo de Alura Latam proporcionó una base de datos para cada tienda, todas con una estructura similar. Las tiendas están ubicadas en Bogotá, Colombia, y realizan envíos a prácticamente todo el país. Los requisitos mínimos del Challenge incluían el análisis de facturación, ventas por categoría, calificación promedio de la tienda, productos más y menos vendidos y el costo de envío, abarcando un período de tiempo de aproximadamente tres años.
+
 Inicialmente, los resultados de estos análisis no fueron concluyentes para la selección de la tienda a vender por el Sr. Joao. Por lo tanto, se decidió complementar el estudio con análisis adicionales, enfocados en el comportamiento más reciente del desempeño de las tiendas, utilizando información de la misma base de datos proporcionada por Alura Latam. Estos análisis se acompañan de visualizaciones que facilitan una mejor comprensión de la situación.
+
 Para los análisis se utilizó el lenguaje de programación Python y sus módulos Pandas y NumPy. Las visualizaciones se realizaron con las librerías Matplotlib, Seaborn y Contextily.
 En este documento (README.md) se presenta la metodología utilizada en el análisis, una discusión de los resultados obtenidos y recomendaciones clave dirigidas al propietario de las tiendas. Todos los resultados detallados y el código completo están documentados en el cuaderno AluraStoreLatam.ipynb (Jupyter Notebook en Google Colab) que acompaña este README en este mismo repositorio.
 
