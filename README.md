@@ -5,8 +5,8 @@ Informe del Challenge N°1 del Programa Oracle ONE (Especialización en Data Sci
 **“Análisis del desempeño de cuatro tiendas de artículos electrónicos y del hogar"**
 
 
-Fecha: 03-07-2025 /
-Autora: Oriana Ortiz N.
+Autora: Oriana Ortiz N. /Fecha: 03-07-2025.
+
 ___________________________________________________________________________________________________
 
 **1. Introducción**
