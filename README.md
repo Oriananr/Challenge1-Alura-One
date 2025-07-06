@@ -3,6 +3,7 @@ ________________________________________________________________________________
 Informe del Challenge N°1 del Programa Oracle ONE (Especialización en Data Science) - Alura Latam. 
 
 **“Análisis del desempeño de cuatro tiendas de artículos electrónicos y del hogar"**
+
 Fecha: 03-07-2025
 Autora: Oriana Ortiz N.
 ___________________________________________________________________________________________________
@@ -58,6 +59,7 @@ El código desarrollado y las visualizaciones pueden ser consultados en el noteb
 
 Para facilitar la comprensión y comparación de los resultados, se generaron gráficos para los análisis de 'Productos más y menos vendidos' y 'Temporalidad de las ventas'. Siguiendo la misma lógica de los análisis previos, se desarrolló un código inicial para visualizar los datos de la Tienda 1, el cual se adaptó posteriormente para consolidar la visualización de las cuatro tiendas en una única representación.
 En el caso del análisis de la 'Área geográfica de influencia de cada tienda', se utilizaron las librerías Matplotlib, Seaborn y Contextily para ubicar geográficamente los envíos de cada tienda en gráficos individuales.
+
 Posteriormente, dado que el análisis de la temporalidad de las ventas mostró cambios importantes en las tendencias observadas durante el período más reciente —correspondiente a los cuatro últimos trimestres—, se elaboró un gráfico comparativo de las cuatro tiendas, mostrando las ventas por lugar de compra. Este se complementó con un análisis del desempeño de los equipos de trabajo para el mismo marco temporal.
 
 **4. Discusión de los resultados** 
@@ -66,12 +68,12 @@ La revisión del “Análisis de Facturación” —uno de los resultados solici
 
 En cuanto a las 'Ventas por Categoría' por tienda, se identifica una tendencia común: las cuatro tiendas exhiben sus mayores ventas en la categoría de 'Muebles'. Un hallazgo clave es que la valoración media por tienda es prácticamente idéntica en todos los casos. Esto sugiere una consistente satisfacción general del cliente con los productos ofrecidos en todos los establecimientos, a pesar de otras posibles variaciones.
 
-
 Un punto de divergencia significativo se encuentra en los productos más vendidos individualmente por tienda. Aunque la cantidad de unidades vendidas de los productos estrella puede ser similar, los tipos de productos que dominan las ventas difieren notablemente entre cada establecimiento. Esto sugiere que cada tienda podría atender a una clientela con preferencias de producto ligeramente distintas o poseer una especialización implícita.
 
 Finalmente, al considerar el costo de envío del producto, se observa que la Tienda 1 presenta los costos más elevados en esta categoría. No obstante, es crucial destacar que este factor no parece afectar su desempeño en ventas, lo que sugiere que los clientes de la Tienda 1 están dispuestos a asumir ese costo adicional o que otros factores positivos compensan esta diferencia.
 
 Basado exclusivamente en las métricas analizadas hasta este punto, la sugerencia de cerrar la Tienda 4 debido a su menor nivel de ingresos es prematura. Si bien es el establecimiento con el rendimiento más bajo en esa métrica particular, la ausencia de una diferencia abrumadora en los ingresos totales entre las tiendas, sumada a las fortalezas compartidas en ciertas categorías (como 'Muebles'), la consistente valoración media del cliente y las peculiaridades en los productos más vendidos que no se traducen necesariamente en bajo rendimiento, indica que estos datos no son determinantes por sí solos para tomar una decisión de su venta.
+
 En base a estos hallazgos iniciales, y con el fin de obtener una visión más concluyente, se decidió realizar cuatro análisis adicionales, detallados en la metodología. En cuanto al método de pago, este no mostró diferencias significativas entre las tiendas en relación con las ventas en múltiples cuotas. Sin embargo, el análisis de la temporalidad de las ventas sí reveló tendencias interesantes:
   - La Tienda 3 experimentó una abrupta caída en las ventas durante el último trimestre.
   - La Tienda 4 también mostró un descenso, aunque leve, en esta métrica.
@@ -98,7 +100,7 @@ Para tomar una decisión informada, recomiendo al Señor Joao considerar las sig
 - Llevar a cabo un Análisis Integral de Rentabilidad/Financiero: Más allá de solo los ingresos, es crucial evaluar la rentabilidad neta de cada tienda. Esto implicaría calcular los márgenes brutos, los gastos operativos (alquiler, salarios, servicios específicos de cada tienda) y el retorno de la inversión (ROI) general para cada ubicación. Una tienda con menores ingresos brutos podría ser más rentable debido a costos operativos más bajos, o viceversa.
 - Pronosticar el Rendimiento Futuro: Utilizar análisis predictivos para proyectar las ventas y la rentabilidad de cada tienda durante los próximos 1 a 3 años. Esto puede ayudar a identificar qué tienda tiene el mejor potencial de crecimiento, independientemente de su rendimiento pasado.
 - Revisión Estratégica del Mercado: Analizar el potencial de mercado de la principal área geográfica de cada tienda. Quizás las ventas más diversificadas de la Tienda 4, aunque menores en Bogotá, indiquen un potencial no explotado en otras ciudades como Medellín o Cali que podría capitalizarse con estrategias específicas.
-- 
+
 En resumen, si bien el análisis proporciona información inicial muy valiosa, sugiere firmemente que se necesitan más datos y enfoques analíticos más profundos antes de tomar una decisión definitiva sobre la venta de cualquiera de las tiendas. Los datos actuales apuntan a una operación general relativamente saludable, por lo que una decisión precipitada podría ser perjudicial.
 
 
