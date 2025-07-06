@@ -70,7 +70,7 @@ Posteriormente, dado que el análisis de la temporalidad de las ventas mostró c
 
 **4.  Discusión de los resultados** 
 ______________________________________________________________________________________________________________________
-La revisión del “Análisis de Facturación” —uno de los resultados solicitados por Alura Latam— reveló que, si bien la Tienda 4 exhibe el nivel más bajo de ingresos totales acumulados en los últimos tres años, las diferencias entre los ingresos de las tiendas no son lo suficientemente significativas como para justificar una conclusión drástica basada únicamente en esta métrica. Esto sugiere que ninguna tienda presenta un desempeño excepcionalmente deficiente o sobresaliente en términos de volumen de ingresos que la diferencie marcadamente del resto.
+La revisión del 'Análisis de Facturación' —uno de los resultados solicitados por Alura Latam— reveló que, si bien la Tienda 4 exhibe el nivel más bajo de ingresos totales acumulados en los últimos tres años, las diferencias entre los ingresos de las tiendas no son lo suficientemente significativas como para justificar una conclusión drástica basada únicamente en esta métrica. Esto sugiere que ninguna tienda presenta un desempeño excepcionalmente deficiente o sobresaliente en términos de volumen de ingresos que la diferencie marcadamente del resto.
 
 En cuanto a las 'Ventas por Categoría' por tienda, se identifica una tendencia común: las cuatro tiendas exhiben sus mayores ventas en la categoría de 'Muebles'. Un hallazgo clave es que la valoración media por tienda es prácticamente idéntica en todos los casos. Esto sugiere una consistente satisfacción general del cliente con los productos ofrecidos en todos los establecimientos, a pesar de otras posibles variaciones.
 
