@@ -63,7 +63,7 @@ En el caso del análisis de la 'Área geográfica de influencia de cada tienda',
 
 Posteriormente, dado que el análisis de la temporalidad de las ventas mostró cambios importantes en las tendencias observadas durante el período más reciente —correspondiente a los cuatro últimos trimestres—, se elaboró un gráfico comparativo de las cuatro tiendas, mostrando las ventas por lugar de compra. Este se complementó con un análisis del desempeño de los equipos de trabajo para el mismo marco temporal.
 
-**4. Discusión de los resultados** 
+**4.  Discusión de los resultados** 
 ______________________________________________________________________________________________________________________
 La revisión del “Análisis de Facturación” —uno de los resultados solicitados por Alura Latam— reveló que, si bien la Tienda 4 exhibe el nivel más bajo de ingresos totales acumulados en los últimos tres años, las diferencias entre los ingresos de las tiendas no son lo suficientemente significativas como para justificar una conclusión drástica basada únicamente en esta métrica. Esto sugiere que ninguna tienda presenta un desempeño excepcionalmente deficiente o sobresaliente en términos de volumen de ingresos que la diferencie marcadamente del resto.
 
@@ -85,7 +85,7 @@ De acuerdo con los gráficos de distribución geográfica de las ventas por tien
 
 En cuanto al desempeño de los equipos de trabajo, se encontró que, si bien todas las tiendas cuentan con 13 trabajadores, el rendimiento individual en ventas es muy variable. Sin embargo, todos los miembros del equipo mantienen una buena calificación, lo que indica que no hay diferencias significativas en este aspecto entre las tiendas.
 
-**5.Recomendación**
+**5.  Recomendación**
 ____________________________________________________________________________________________________________________
 En base al análisis descriptivo realizado sobre las cuatro tiendas, mi recomendación para el Señor Joao, respecto a su decisión de vender una de ellas, es la siguiente:
 Posponer la decisión de vender una tienda e invertir en análisis adicionales más profundos.
