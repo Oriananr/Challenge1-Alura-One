@@ -1,12 +1,11 @@
 # Challenge1-Alura-One
-
 ___________________________________________________________________________________________________
 Informe del Challenge N°1 del Programa Oracle ONE (Especialización en Data Science) - Alura Latam. 
-**“Análisis del desempeño de cuatro tiendas de artículos electrónicos y del hogar"**
-___________________________________________________________________________________________________
 
+**“Análisis del desempeño de cuatro tiendas de artículos electrónicos y del hogar"**
 Fecha: 03-07-2025
-Autor/a: Oriana Ortiz N.
+Autora: Oriana Ortiz N.
+___________________________________________________________________________________________________
 
 **1. Introducción**
 ____________________________________________________________________________________________________
@@ -48,10 +47,10 @@ Inicialmente, el equipo de Alura solicitó los siguientes análisis:
 
 Tras realizar estos análisis iniciales, se determinó que no eran concluyentes para identificar la tienda de menor desempeño. Por ello, se decidió realizar cuatro análisis adicionales aprovechando la información disponible en los DataFrames que no había sido considerada previamente:
 
-6)Método de pago
-7)Temporalidad de las ventas
-8)Área geográfica de influencia de cada tienda
-9)Desempeño de los equipos de trabajo
+6) Método de pago
+7) Temporalidad de las ventas
+8) Área geográfica de influencia de cada tienda
+9) Desempeño de los equipos de trabajo
 
 Para cada uno de los análisis, se desarrolló un código Python específico para el conjunto de datos “tienda1”. Dada la estructura consistente de los DataFrames (mismos nombres de columnas y tipos de registros) para las demás tiendas, este código se replicó sistemáticamente utilizando ciclos for o funciones, aplicando el mismo análisis a los datasets “ tienda2”’, “‘tienda3” y “tienda4”.
 
