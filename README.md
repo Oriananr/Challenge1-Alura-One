@@ -93,7 +93,9 @@ En cuanto al desempeño de los equipos de trabajo, se encontró que, si bien tod
 **5.  Recomendación**
 ____________________________________________________________________________________________________________________
 En base al análisis descriptivo realizado sobre las cuatro tiendas, mi recomendación para el Señor Joao, respecto a su decisión de vender una de ellas, es la siguiente:
+
 **Posponer la decisión de vender una tienda e invertir en análisis adicionales más profundos.**
+
 Por los siguiente motivos:
 - No hay una tienda claramente de bajo rendimiento: los análisis muestran que, si bien la Tienda 4 registra los ingresos acumulados más bajos en los últimos tres años, las diferencias en los ingresos entre todas las tiendas no son drásticamente significativas. Ninguna tienda destaca como una candidata obvia para la venta basándose únicamente en el volumen de ingresos.
 - Fortalezas compartidas: Todas las tiendas muestran fortalezas en áreas clave, como altas ventas en la categoría de 'Muebles' y una satisfacción del cliente consistentemente buena (valoraciones promedio similares). Esto indica una base de negocio saludable en todas las sucursales.
